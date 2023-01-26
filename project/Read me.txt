@@ -1,0 +1,1 @@
+This is a rock paper scissor game made by bhupendra kumawat(12223305).please extract first,then run the project.py to enjoy the game.
